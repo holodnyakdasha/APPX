@@ -1,0 +1,9 @@
+{
+    "name": "APPX company site",
+    "description": "This app does one little thing, and does it well.",
+    "buildpacks": [
+      {
+        "url": "https://buildpack-registry.s3.amazonaws.com/buildpacks/heroku/nodejs"
+      }
+    ]
+  }
